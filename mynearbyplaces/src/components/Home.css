@@ -1,0 +1,49 @@
+.titleText {
+    font-weight: bold;
+    font-size: 25px;
+}
+.boldText {
+    font-weight: bold;
+}
+.createPage {
+    font-size: 35px;
+    background-color: rgb(67, 165, 92);;
+    border-radius: 50px;
+    font-weight: bold;
+    
+}
+.pageButton {
+    background-color: brown;
+    font-weight: bold;
+}
+.deleteButton {
+    background-color: red;
+    font-weight: bold;
+}
+.submitButton {
+    background-color: rgb(8, 163, 8);
+    font-weight: bold;
+}
+.cancelButton {
+    background-color: orange;
+    font-weight: bold;
+}
+.restaurantArea {
+    background-color: rgb(67, 165, 92);
+    width: 40%;
+    text-align: center;
+    margin: auto;
+    line-height: 26px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: green;
+}
+.editBox {
+    width: 300px;
+}
+.pageBackground {
+    background-color: brown;
+}
+.reviewArea {
+    text-decoration: underline;
+}

@@ -1,0 +1,16 @@
+.reviewText {
+    word-wrap: break-word;
+    text-align: center;
+}
+.commentBox {
+    width: 300px;
+    
+}
+.titleText {
+    font-weight: bold;
+    font-size: 45px;
+}
+.pageInfo {
+    line-height: 30px;
+    font-size: 20px;
+}
